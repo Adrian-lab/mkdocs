@@ -1,0 +1,11 @@
+site_name: MkLorum
+nav:
+    - Home: index.md
+    - About: about.md
+    - Personages: personages.md
+    - Aragorn: aragorn.md
+    - Legolas: legolas.md
+    - Gimbli: gimbli.md
+    - Gandalf: gandalf.md
+    - Frodo: frodo.md
+theme: readthedocs
